@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea7</string>
+    <string name="error_connection">Error de conexión: %1$s</string>
+    <string name="error_fetch_data">Error al obtener los datos</string>
+    <string name="welcome_message">Bienvenido %1$s %2$s</string>
+    <string name="enter_username_password">Por favor ingrese usuario y contraseña</string>
+    <string name="failed_fetch_images">Error al obtener las imágenes</string>
+    <string name="failed_fetch_breeds">Error al obtener las razas</string>
+    <string name="hint_username">Usuario (ID)</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name="button_view_breeds">Ver Razas de Perros</string>
+    <string name="text_dog_breed">Raza de Perro</string>
+    <string name="empty_credentials">Por favor ingrese usuario y contraseña</string>
+    <string name="all_fields_required">Todos los campos son obligatorios</string>
+    <string name="register_success">Registro exitoso</string>
+    <string name="register_failed">Error en el registro</string>
+    <string name="welcome_user">Bienvenido %1$s %2$s</string>
+    <string name="invalid_credentials">Credenciales inválidas.</string>
+    <string name="inactive_user">El usuario está inactivo.</string>
+    <string name="server_error">Error al comunicarse con el servidor.</string>
+    <string name="server_error_with_body">Error del servidor: %1$s</string>
+    <string name="connection_error">Error de conexión: %1$s</string>
+</resources>
