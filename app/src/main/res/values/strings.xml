@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tarea7</string>
+    <string name="error_connection">Connection error: %1$s</string>
+    <string name="error_fetch_data">Failed to fetch data</string>
+    <string name="welcome_message">Welcome %1$s %2$s</string>
+    <string name="enter_username_password">Please enter username and password</string>
+    <string name="failed_fetch_images">Failed to fetch images</string>
+    <string name="failed_fetch_breeds">Failed to fetch breeds</string>
+    <string name="hint_username">User (ID)</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Log In</string>
+    <string name="button_view_breeds">View Dog Breeds</string>
+    <string name="text_dog_breed">Dog Breed</string>
+    <string name="empty_credentials">Please enter username and password</string>
+    <string name="all_fields_required">All fields are required</string>
+    <string name="register_success">Registration successful</string>
+    <string name="register_failed">Registration failed</string>
+    <string name="welcome_user">Welcome %1$s %2$s</string>
+    <string name="invalid_credentials">Invalid credentials.</string>
+    <string name="inactive_user">The user is inactive.</string>
+    <string name="server_error">Error communicating with the server.</string>
+    <string name="server_error_with_body">Server error: %1$s</string>
+    <string name="connection_error">Connection error: %1$s</string>
+</resources>
