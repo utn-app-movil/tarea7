@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarea07</string>
+    <string name="login">login</string>
+    <string name="text_id">Id</string>
+    <string name="text_password">Password</string>
+    <string name="msgError">Error in regis user</string>
+    <string name="msgSucces">Succes</string>
+</resources>

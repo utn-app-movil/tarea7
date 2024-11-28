@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tarea07</string>
+    <string name="login">Registro</string>
+    <string name="text_id">Identificador</string>
+    <string name="text_password">Contraseña</string>
+    <string name="msgError">Error al registrar usuario</string>
+    <string name="msgSucces">Exitoso</string>
+</resources>
