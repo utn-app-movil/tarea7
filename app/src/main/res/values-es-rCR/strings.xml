@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Investigacion02</string>
+    <string name="image_description">Imagen de un perro</string>
+    <string name="login_message">Iniciar sesión</string>
+    <string name="user_id_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="register_title">Registrarse</string>
+    <string name="name_hint">Nombre</string>
+    <string name="last_name_hint">Apellido</string>
+    <string name="register_button">Registrar</string>
+    <string name="no_images_found">No se encontraron imágenes para %1$s</string>
+    <string name="failed_to_load_images">No se pudieron cargar las imágenes</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="logged_out">Sesión cerrada</string>
+    <string name="failed_to_fetch_breeds">No se pudieron obtener las razas</string>
+    <string name="fill_all_fields">Por favor, complete todos los campos</string>
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="user_inactive">Error al iniciar sesión. El usuario podría estar inactivo.</string>
+    <string name="invalid_credentials">Error al iniciar sesión. Verifique sus credenciales.</string>
+    <string name="registration_successful">Registro exitoso</string>
+    <string name="registration_failed">Error en el registro</string>
+</resources>
