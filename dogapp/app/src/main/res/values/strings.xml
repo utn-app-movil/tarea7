@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DogApp</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="breed_list_title">Lista de Razas</string>
+    <string name="gallery_title">Galería</string>
+    <string name="error_loading_breeds">Error al cargar las razas</string>
+    <string name="error_loading_images">Error al cargar las imágenes</string>
+</resources>
